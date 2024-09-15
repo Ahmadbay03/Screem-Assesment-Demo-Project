@@ -1,6 +1,6 @@
 # unhcr_demo_project
 
-A new Flutter project.
+This repository contains the source code for a demo project submitted as part of a job screening assessment. It showcases fetching data from an API and listing them out in a cards fashion and responsivness. The project is cross-platformed and designed to demonstrate proficiency in Flutter framework.
 
 ## Getting Started
 
